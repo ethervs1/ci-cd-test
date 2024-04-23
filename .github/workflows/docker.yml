@@ -1,6 +1,4 @@
 
-# ethervs
-# dckr_pat_ta-79Y6enAzvnHmnBRiKcJDHWaM
 name: Build and Push Docker Image
 
 on:
